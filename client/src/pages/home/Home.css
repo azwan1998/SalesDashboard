@@ -1,0 +1,17 @@
+.Home .card {
+  margin-bottom: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 6px 20px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.Home .card:hover {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2), 0 12px 40px rgba(0, 0, 0, 0.2);
+}
+
+.Home .form-group {
+  margin-bottom: 20px;
+}
+
+.Home .table {
+  margin-bottom: 0;
+}
